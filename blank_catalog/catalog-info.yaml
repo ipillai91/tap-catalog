@@ -12,4 +12,4 @@ spec:
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
     - https://github.com/ipillai91/tanzu-java-web-app/blob/main/catalog-info.yaml
-    - https://github.com/ipillai91/spring-petclinic/blob/master/catalog/catalog-info.yaml
+    - https://github.com/ipillai91/spring-petclinic-new/blob/main/catalog/catalog-info.yaml
